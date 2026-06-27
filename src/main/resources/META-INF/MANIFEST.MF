@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: fpslite
+Specification-Vendor: fpslite
+Specification-Version: 1
+Implementation-Title: fpslite
+Implementation-Version: 2.0.0
+Implementation-Vendor: fpslite
